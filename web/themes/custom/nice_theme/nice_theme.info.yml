@@ -1,0 +1,9 @@
+name: 'Nice Theme'
+description: 'This is My Nice Theme'
+type: theme
+core_version_requirement: ^8 || ^9
+version: VERSION
+base theme: classy
+screenshot: nice-theme.png
+libraries:
+  - nice_theme/nicetheme-style

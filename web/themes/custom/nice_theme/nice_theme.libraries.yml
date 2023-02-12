@@ -1,0 +1,12 @@
+nicetheme-style:
+  version: VERSION
+  css:
+    theme:
+      https://fonts.googleapis.com/css?family=Montserrat: { type: external }
+      css/main.css: {}
+      css/navbar.css: {}
+  js:
+    js/navbar.js: {}    
+  dependencies:
+    - core/drupal
+    - core/jquery
